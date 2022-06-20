@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is E679-21F0
+
+ Directory of C:\git\demo1
+
+06/20/2022  09:10 AM    <DIR>          .
+06/20/2022  09:10 AM    <DIR>          ..
+06/20/2022  09:10 AM                 0 ley.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  482,050,588,672 bytes free
