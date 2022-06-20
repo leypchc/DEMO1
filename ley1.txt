@@ -15,7 +15,6 @@
 05/01/2022  01:17 AM    <DIR>          Program Files (x86)
 06/17/2022  11:39 AM    <DIR>          temp
 04/16/2022  07:54 AM           542,494 trac_msi.log
-04/04/2022  09:52 AM    <DIR>          Users
-06/19/2022  01:32 PM    <DIR>          Windows
+04/04/2022  09:52 AM    <DIR>          Usersdewdwedwe
                1 File(s)        542,494 bytes
               13 Dir(s)  482,048,548,864 bytes free
