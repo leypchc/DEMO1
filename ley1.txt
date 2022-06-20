@@ -1,0 +1,21 @@
+ Volume in drive C is OS
+ Volume Serial Number is E679-21F0
+
+ Directory of c:\
+
+02/15/2022  05:53 PM    <DIR>          Apps
+04/10/2022  09:35 PM    <DIR>          bin
+02/15/2022  06:06 PM    <DIR>          DELL
+02/15/2022  05:43 PM    <DIR>          Drivers
+02/15/2022  05:42 PM    <DIR>          e-logo
+06/20/2022  09:05 AM    <DIR>          git
+06/19/2022  01:32 PM    <DIR>          Intel
+12/07/2019  05:14 PM    <DIR>          PerfLogs
+06/20/2022  08:52 AM    <DIR>          Program Files
+05/01/2022  01:17 AM    <DIR>          Program Files (x86)
+06/17/2022  11:39 AM    <DIR>          temp
+04/16/2022  07:54 AM           542,494 trac_msi.log
+04/04/2022  09:52 AM    <DIR>          Users
+06/19/2022  01:32 PM    <DIR>          Windows
+               1 File(s)        542,494 bytes
+              13 Dir(s)  482,048,548,864 bytes free
